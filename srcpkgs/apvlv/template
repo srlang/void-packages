@@ -1,0 +1,22 @@
+# Template file for 'apvlv'
+pkgname=apvlv
+version=0.1.f7f7b9c
+revision=1
+#wrksrc=
+#create_wrksrc=yes
+#only_for_archs="i686 x86_64"
+build_style=gnu-configure
+#configure_args=""
+#make_build_args=""
+#make_install_args=""
+#conf_files=""
+#make_dirs="/var/log/dir 0755 root root"
+hostmakedepends="cmake"
+makedepends=""
+depends=""
+short_desc=""
+maintainer="Sean R. Lang <srlang@ncsu.edu>"
+license="GPL-3"
+homepage="http://naihe2010.github.io/apvlv/"
+distfiles="https://github.com/downloads/naihe2010/apvlv/apvlv-0.1.f7f7b9c-Source.tar.gz"
+checksum=1cd04c5c9f1d085c4a111023079534348d97981734c12e658affc1261da3b688  
